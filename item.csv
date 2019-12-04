@@ -1,0 +1,441 @@
+﻿No.,No. 2,desc,unit,Type,pcat,Sales Unit of Measure,Purch. Unit of Measure,Item Category Code
+DON1,,捐款者-捐款者-個人,QTY,Service,DIO,QTY,QTY,DON1
+DON10,,捐款者-其他,QTY,Service,DIO,QTY,QTY,DON10
+DON2,,捐款者-捐款者-團體,QTY,Service,DIO,QTY,QTY,DON2
+DON3,,捐款者-關連捐款者-個人,QTY,Service,DIO,QTY,QTY,DON3
+DON4,,捐款者-關連捐款者-團體,QTY,Service,DIO,QTY,QTY,DON4
+DON5,,捐款者-學校,QTY,Service,DIO,QTY,QTY,DON5
+DON6,,捐款者-政府部門,QTY,Service,DIO,QTY,QTY,DON6
+DON7,,捐款者-慈善機構,QTY,Service,DIO,QTY,QTY,DON7
+DON8,,捐款者-事局董,QTY,Service,ADD,QTY,QTY,DON8
+DON9,,捐款者-諮議局,QTY,Service,ADD,QTY,QTY,DON9
+FOO1,,肉食(豬牛羊) ,QTY,Inventory,FOO,QTY,QTY,FOO1
+FOO10,,奶粉粟米片,QTY,Inventory,FOO,QTY,QTY,FOO10
+FOO11,,飲品 ,QTY,Inventory,FOO,QTY,QTY,FOO11
+FOO14,,雜貨(粉麵豆品) ,QTY,Inventory,FOO,QTY,QTY,FOO14
+FOO2,,凍肉 ,QTY,Inventory,FOO,QTY,QTY,FOO2
+FOO3,,燒臘冰鮮/活家禽 ,QTY,Inventory,FOO,QTY,QTY,FOO3
+FOO4,,海產咸/淡水魚蝦 ,QTY,Inventory,FOO,QTY,QTY,FOO4
+FOO5,,蔬菜瓜 ,QTY,Inventory,FOO,QTY,QTY,FOO5
+FOO6,,雜貨(米油鹽) ,QTY,Inventory,FOO,QTY,QTY,FOO6
+FOO7,,生果,QTY,Inventory,FOO,QTY,QTY,FOO7
+FOO8,,麵包 ,QTY,Inventory,FOO,QTY,QTY,FOO8
+FOO9,,餅乾 ,QTY,Inventory,FOO,QTY,QTY,FOO9
+HE1,,宿舍服務-住宿,QTY,Service,SERI,QTY,QTY,HE1
+HE2,,宿舍服務-沖涼,QTY,Service,SERI,QTY,QTY,HE2
+HE3,,宿舍服務-洗衫,QTY,Service,SERI,QTY,QTY,HE3
+HE4,,宿舍服務-雜費,QTY,Service,SERI,QTY,QTY,HE4
+MED1,,藥物,QTY,Inventory,MED,QTY,QTY,MED1
+MED2,,口罩,QTY,Inventory,MED,QTY,QTY,MED2
+MED3,,醫療用料,QTY,Inventory,MED,QTY,QTY,MED3
+MEMA1,,成人-普通會員-18-59歲,QTY,Service,MEMI,QTY,QTY,MEMA1
+MEMA2,,成人-社區會員-凡年滿25歲或以上之服務使用者,QTY,Service,MEMI,QTY,QTY,MEMA2
+MEMA3,,成人-成人會員-25歲或以上,QTY,Service,MEMI,QTY,QTY,MEMA3
+MEMA4,,成人-先進會員-45-59歲,QTY,Service,MEMI,QTY,QTY,MEMA4
+MEMA5,,成人-銀齡會員-50-59歲,QTY,Service,MEMI,QTY,QTY,MEMA5
+MEMA6,,成人-第三齡會員-55-59歲,QTY,Service,MEMI,QTY,QTY,MEMA6
+MEMC1,,兒童-幼兒會員-3-5歲,QTY,Service,MEMI,QTY,QTY,MEMC1
+MEMC2,,兒童-兒童會員-6-10歲,QTY,Service,MEMI,QTY,QTY,MEMC2
+MEME1,,長者-長者支援服務隊個案會員-60歲或以上獨居或缺乏支援之長者,QTY,Service,MEMI,QTY,QTY,MEME1
+MEME2,,長者-長者會員-60歲或以上,QTY,Service,MEMI,QTY,QTY,MEME2
+MEME3,,長者-智慧會員-60-64歲,QTY,Service,MEMI,QTY,QTY,MEME3
+MEME4,,長者-健康會員-65-69歲,QTY,Service,MEMI,QTY,QTY,MEME4
+MEME5,,長者-休閒會員-70-79歲,QTY,Service,MEMI,QTY,QTY,MEME5
+MEME6,,長者-老友會員-80歲或以上,QTY,Service,MEMI,QTY,QTY,MEME6
+MEMO1,,其他-附屬會員-同住之家庭成員,QTY,Service,MEMI,QTY,QTY,MEMO1
+MEMO10,,其他-飯堂優先會員,QTY,Service,MEMI,QTY,QTY,MEMO10
+MEMO11,,其他-長者支援隊(義工會員),QTY,Service,MEMI,QTY,QTY,MEMO11
+MEMO12,,其他-長者支援隊(義工機構),QTY,Service,MEMI,QTY,QTY,MEMO12
+MEMO13,,其他-鄉郊會員,QTY,Service,MEMI,QTY,QTY,MEMO13
+MEMO14,,其他-智友醫社同行個案,QTY,Service,MEMI,QTY,QTY,MEMO14
+MEMO15,,其他-飯堂優先會員,QTY,Service,MEMI,QTY,QTY,MEMO15
+MEMO16,,其他-愛心卡會員,QTY,Service,MEMI,QTY,QTY,MEMO16
+MEMO17,,其他-樂助弱老基金個案,QTY,Service,MEMI,QTY,QTY,MEMO17
+MEMO18,,其他-關愛基金個案,QTY,Service,MEMI,QTY,QTY,MEMO18
+MEMO19,,其他-社區照顧券個案,QTY,Service,MEMI,QTY,QTY,MEMO19
+MEMO2,,其他-社區服務會員 - 個人,QTY,Service,MEMI,QTY,QTY,MEMO2
+MEMO20,,其他-隱蔽長者,QTY,Service,MEMI,QTY,QTY,MEMO20
+MEMO21,,其他-員工,QTY,Service,MEMI,QTY,QTY,MEMO21
+MEMO22,,其他-導師,QTY,Service,MEMI,QTY,QTY,MEMO22
+MEMO23,,其他-學生,QTY,Service,MEMI,QTY,QTY,MEMO23
+MEMO24,,其他-院友,QTY,Service,MEMI,QTY,QTY,MEMO24
+MEMO25,,其他-公司,QTY,Service,MEMI,QTY,QTY,MEMO25
+MEMO26,,其他-其他,QTY,Service,MEMI,QTY,QTY,MEMO26
+MEMO3,,其他-社區服務會員 - 家庭,QTY,Service,MEMI,QTY,QTY,MEMO3
+MEMO4,,其他-團體會員-香港註册之社團及工商機構,QTY,Service,MEMI,QTY,QTY,MEMO4
+MEMO5,,其他-會員嘉賓-須中心會員介紹,QTY,Service,MEMI,QTY,QTY,MEMO5
+MEMO6,,其他-VIP,QTY,Service,MEMI,QTY,QTY,MEMO6
+MEMO7,,其他-義工會員-年滿8歲或以上登記義工,QTY,Service,MEMI,QTY,QTY,MEMO7
+MEMO8,,其他-非會員-長者之家人(沒有登記為護老者)/個案/隱長/社區人士/已登記55歲或以上社區人士/已登記54歲或以下參加個別活動社區人士,QTY,Service,MEMI,QTY,QTY,MEMO8
+MEMO9,,其他-護老者/有需要護老者會員-為60歲或以上提供照顧的成人護老者,QTY,Service,MEMI,QTY,QTY,MEMO9
+MEMY1,,青少年-新進會員-11-14歲或以下,QTY,Service,MEMI,QTY,QTY,MEMY1
+MEMY2,,青少年-少年會員-17歲或以下,QTY,Service,MEMI,QTY,QTY,MEMY2
+MEMY3,,青少年-青少年會員-6-24歲,QTY,Service,MEMI,QTY,QTY,MEMY3
+MEMY4,,青少年-青年會員-15-24歲,QTY,Service,MEMI,QTY,QTY,MEMY4
+PUR1,,#7374C-Folding Frame Standard 可摺疊式助行架,,Inventory,PUR,PCS,PCS,PUR1
+PUR10,,麥麩蘇打餅 400g,PACK,Inventory,PUR,PACK,PACK,PUR10
+PUR100,,MAMY快食河粉,PACK,Inventory,PUR,PACK,PACK,PUR100
+PUR101,,泰國有機香米1kg,PACK,Inventory,PUR,PACK,PACK,PUR101
+PUR102,,泰國有機白米500g,PACK,Inventory,PUR,PACK,PACK,PUR102
+PUR103,,泰國有機香糙米1kg,PACK,Inventory,PUR,PACK,PACK,PUR103
+PUR104,,泰國有機紅米1kg,PACK,Inventory,PUR,PACK,PACK,PUR104
+PUR105,,泰國有機3色米,PACK,Inventory,PUR,PACK,PACK,PUR105
+PUR106,,有機即沖芝麻8穀營養餐,CAN,Inventory,PUR,CAN,CAN,PUR106
+PUR107,,有機即沖芝麻8穀營養餐(無糖),CAN,Inventory,PUR,CAN,CAN,PUR107
+PUR108,,有機15果糧香脆條,BOX,Inventory,PUR,BOX,BOX,PUR108
+PUR109,,有機黑芝麻米糧香脆條,BOX,Inventory,PUR,BOX,BOX,PUR109
+PUR11,,方塊酥（新包裝）,BOX,Inventory,PUR,BOX,BOX,PUR11
+PUR110,,藍雀多功能體溫計,,Inventory,PUR,PCS,PCS,PUR110
+PUR111,,藍雀 (獨立式口罩)X50PCS,BOX,Inventory,PUR,BOX,BOX,PUR111
+PUR112,,藍雀 (獨立式口罩),BOX,Inventory,PUR,BOX,BOX,PUR112
+PUR113,,藍雀潔膚柔濕巾XL,PACK,Inventory,PUR,PACK,PACK,PUR113
+PUR114,,回歸活動紀念廣告帽,,Inventory,PUR,PCS,PCS,PUR114
+PUR115,,小麥餐具三件套,,Inventory,PUR,PCS,PCS,PUR115
+PUR116,,環保記事簿,,Inventory,PUR,PCS,PCS,PUR116
+PUR117,,泰國龍眼乾,PACK,Inventory,PUR,PACK,PACK,PUR117
+PUR118,,凍乾水果（蜜桃）,PACK,Inventory,PUR,PACK,PACK,PUR118
+PUR119,,凍乾水果（草莓）,PACK,Inventory,PUR,PACK,PACK,PUR119
+PUR12,,糙米米果 60g,PACK,Inventory,PUR,PACK,PACK,PUR12
+PUR120,,凍乾榴蓮,PACK,Inventory,PUR,PACK,PACK,PUR120
+PUR121,,環保肥皂（綠慧公社）,,Inventory,PUR,PCS,PCS,PUR121
+PUR122,,歐姆龍手臂式血壓計7121(會員特價）,,Inventory,PUR,PCS,PCS,PUR122
+PUR123,,GAYA泰國草本熱敷包-腰肚,,Inventory,PUR,PCS,PCS,PUR123
+PUR124,,藥丸分割器,,Inventory,PUR,PCS,PCS,PUR124
+PUR125,,養生薈有機黃金亞麻籽454g,CAN,Inventory,PUR,CAN,CAN,PUR125
+PUR126,,雙面彩色燙畫拉鏈帆布袋,,Inventory,PUR,PCS,PCS,PUR126
+PUR127,,強生血糖機(贈品）,,Inventory,PUR,PCS,PCS,PUR127
+PUR128,,JJ SELECT PLUS血糖紙50s,BOX,Inventory,PUR,BOX,BOX,PUR128
+PUR129,,JJ DELICA LANCET採血針 100S,BOX,Inventory,PUR,BOX,BOX,PUR129
+PUR13,,黑糖沙琪瑪(無蛋),PACK,Inventory,PUR,PACK,PACK,PUR13
+PUR130,,OTULTRAEASY血糖測試機（贈品）,BOX,Inventory,PUR,BOX,BOX,PUR130
+PUR131,,無菌敷料包,PACK,Inventory,PUR,PACK,PACK,PUR131
+PUR132,,丹麥高級成人尿片,PACK,Inventory,PUR,PACK,PACK,PUR132
+PUR133,,紫菜,PACK,Inventory,PUR,PACK,PACK,PUR133
+PUR134,,纖維粉,CAN,Inventory,PUR,CAN,CAN,PUR134
+PUR135,,螺旋藻高鈣燕麥奶,CAN,Inventory,PUR,CAN,CAN,PUR135
+PUR136,,純黑芝麻粉,CAN,Inventory,PUR,CAN,CAN,PUR136
+PUR137,,澳洲頂級大燕麥片,CAN,Inventory,PUR,CAN,CAN,PUR137
+PUR138,,高鈣杏仁茶,CAN,Inventory,PUR,CAN,CAN,PUR138
+PUR139,,岳盛小阿姨黑糖薑母茶,PACK,Inventory,PUR,PACK,PACK,PUR139
+PUR14,,珊瑚藻凍(白葡萄味),CUP,Inventory,PUR,CUP,CUP,PUR14
+PUR140,,紅薏仁粉,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR140
+PUR141,,牛蒡片,PACK,Inventory,PUR,PACK,PACK,PUR141
+PUR142,,葡萄糖胺燕麥奶,CAN,Inventory,PUR,CAN,CAN,PUR142
+PUR143,,淮山餅,PACK,Inventory,PUR,PACK,PACK,PUR143
+PUR144,,核桃粉,CAN,Inventory,PUR,CAN,CAN,PUR144
+PUR145,,環保香橙肥皂,,Inventory,PUR,PCS,PCS,PUR145
+PUR146,,佳膳纖維配方,PACK,Inventory,PUR,PACK,PACK,PUR146
+PUR147,,佳膳成人升級配方800G,CAN,Inventory,PUR,CAN,CAN,PUR147
+PUR148,,矽膠 3/4 掌墊  (中),,Inventory,PUR,PCS,PCS,PUR148
+PUR149,,環保天然有機肥100g,,Inventory,PUR,PCS,PCS,PUR149
+PUR15,,腰果鹹醬夾心酥,BOX,Inventory,PUR,BOX,BOX,PUR15
+PUR150,,植物活力液,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR150
+PUR151,,彩色4x7日 28格藥盒,,Inventory,PUR,PCS,PCS,PUR151
+PUR152,,Folding up drinking cup with pill box,,Inventory,PUR,PCS,PCS,PUR152
+PUR153,,滅蟲貼,PACK,Inventory,PUR,PACK,PACK,PUR153
+PUR154,,越南有機椰青水,CAN,Inventory,PUR,CAN,CAN,PUR154
+PUR155,,椰奶,CAN,Inventory,PUR,CAN,CAN,PUR155
+PUR156,,天然死海礦物浴鹽,,Inventory,PUR,PCS,PCS,PUR156
+PUR157,,有機秋木耳（小盒）,BOX,Inventory,PUR,BOX,BOX,PUR157
+PUR158,,有機銀耳（小盒）,BOX,Inventory,PUR,BOX,BOX,PUR158
+PUR159,,和然有機醬油（500ml）,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR159
+PUR16,,細海鹽,PACK,Inventory,PUR,PACK,PACK,PUR16
+PUR160,,有機豆瓣醬（細）,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR160
+PUR161,,天然有機醬油,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR161
+PUR162,,和然有機大豆瓣醬（800g）,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR162
+PUR163,,歐姆龍OMRON全自動手臂式電子血壓計JPN500(附贈品）,,Inventory,PUR,PCS,PCS,PUR163
+PUR164,,超大葡萄乾,PACK,Inventory,PUR,PACK,PACK,PUR164
+PUR165,,有機木耳膠原飲,PACK,Inventory,PUR,PACK,PACK,PUR165
+PUR166,,澳洲有機湖鹽,PACK,Inventory,PUR,PACK,PACK,PUR166
+PUR167,,有機即溶苔麩片250g,CAN,Inventory,PUR,CAN,CAN,PUR167
+PUR168,,枸杞菊花養生飲,PACK,Inventory,PUR,PACK,PACK,PUR168
+PUR169,,有機甘栗仁,PACK,Inventory,PUR,PACK,PACK,PUR169
+PUR17,,澳洲天然湖鹽 (簡單生活),PACK,Inventory,PUR,PACK,PACK,PUR17
+PUR170,,蕃薯乾,PACK,Inventory,PUR,PACK,PACK,PUR170
+PUR171,,藜麥好棒-原味150g,BOX,Inventory,PUR,BOX,BOX,PUR171
+PUR172,,養生綜合堅果300g,PACK,Inventory,PUR,PACK,PACK,PUR172
+PUR173,,冰原有機即溶大燕麥片,CAN,Inventory,PUR,CAN,CAN,PUR173
+PUR174,,冰原有機黑麥片500g,CAN,Inventory,PUR,CAN,CAN,PUR174
+PUR175,,有機三色藜麥片250g,CAN,Inventory,PUR,CAN,CAN,PUR175
+PUR176,,ECO Pen(ball pen),,Inventory,PUR,PCS,PCS,PUR176
+PUR177,,ECO PEN (highlight),,Inventory,PUR,PCS,PCS,PUR177
+PUR178,,PIC 胰島素注射筆針頭 32G(4mm),BOX,Inventory,PUR,BOX,BOX,PUR178
+PUR179,,PIC Cream foot care diaetes,,Inventory,PUR,PCS,PCS,PUR179
+PUR18,,有機紅薏仁綠豆湯,CAN,Inventory,PUR,CAN,CAN,PUR18
+PUR180,,Wash Foot Care Diabetes,,Inventory,PUR,PCS,PCS,PUR180
+PUR181,,PIC 胰島素注射筆針頭32G (6mm),BOX,Inventory,PUR,BOX,BOX,PUR181
+PUR182,,Sate Container For Sharps Box,BOX,Inventory,PUR,BOX,BOX,PUR182
+PUR183,,PIC 胰島素注射筆針頭32G (8mm),BOX,Inventory,PUR,BOX,BOX,PUR183
+PUR184,,正冬蜜  (1000gm),BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR184
+PUR185,,荷寶薄荷膏15gm,,Inventory,PUR,PCS,PCS,PUR185
+PUR186,,荷寶萬用活洛油 15ml,,Inventory,PUR,PCS,PCS,PUR186
+PUR187,,Listra全墊 (XL),,Inventory,PUR,PCS,PCS,PUR187
+PUR188,,Listra全墊 (L),,Inventory,PUR,PCS,PCS,PUR188
+PUR189,,Listra3/4墊 (M),,Inventory,PUR,PCS,PCS,PUR189
+PUR19,,有機紫米八寶粥,CAN,Inventory,PUR,CAN,CAN,PUR19
+PUR190,,蘆薈止痛膏,,Inventory,PUR,PCS,PCS,PUR190
+PUR191,,Comefree CF-843護具系列（護膝）L,,Inventory,PUR,PCS,PCS,PUR191
+PUR192,,Comefree CF-843護具系列（護膝）XL,,Inventory,PUR,PCS,PCS,PUR192
+PUR193,,Listra Heel Cup足跟墊 (M),,Inventory,PUR,PCS,PCS,PUR193
+PUR194,,Listra Heel Cup 足跟墊 (L),,Inventory,PUR,PCS,PCS,PUR194
+PUR195,,R&R 冷熱肩墊敷 (SP-7207B) Cold/Hot Compress Pack( 42 X 36.5,,Inventory,PUR,PCS,PCS,PUR195
+PUR196,,Robust 護腕 (RB-1841),,Inventory,PUR,PCS,PCS,PUR196
+PUR197,,Robust 護肘 (RB-1842) 大碼,,Inventory,PUR,PCS,PCS,PUR197
+PUR198,,Robust 護肘  (RB-1842) 加大碼,,Inventory,PUR,PCS,PCS,PUR198
+PUR199,,Robust 護踝 (RB-1844) 加大碼,,Inventory,PUR,PCS,PCS,PUR199
+PUR2,,16mm膠腳(灰色)(主要四腳叉用),,Inventory,PUR,PCS,PCS,PUR2
+PUR20,,素皂,,Inventory,PUR,PCS,PCS,PUR20
+PUR200,,Robust 護踝 (RB-1844) 大碼,,Inventory,PUR,PCS,PCS,PUR200
+PUR201,,Robust 護踝 (RB-1844) 中碼,,Inventory,PUR,PCS,PCS,PUR201
+PUR202,,Robust 護踝 (RB-1844) 細碼,,Inventory,PUR,PCS,PCS,PUR202
+PUR203,,Robust RB-1845 遠紅外線背姿矯正帶 (中碼),,Inventory,PUR,PCS,PCS,PUR203
+PUR204,,Robust RB-1845 遠紅外線背姿矯正帶 (細碼),,Inventory,PUR,PCS,PCS,PUR204
+PUR205,,Robust RB-1845 遠紅外線背姿矯正帶 (大碼),,Inventory,PUR,PCS,PCS,PUR205
+PUR206,,Robust RB-1845 遠紅外線背姿矯正帶 (加大碼),,Inventory,PUR,PCS,PCS,PUR206
+PUR207,,前掌墊 MIA Metatarsal Cushion - Exrtra Soft （藍色）,,Inventory,PUR,PCS,PCS,PUR207
+PUR208,,Silicon足跟墊S,,Inventory,PUR,PCS,PCS,PUR208
+PUR209,,仁愛堂環保肥皂（三色）,,Inventory,PUR,PCS,PCS,PUR209
+PUR21,,柚籽皂,,Inventory,PUR,PCS,PCS,PUR21
+PUR210,,愛心小熊肥皂（禮盒裝）,BOX,Inventory,PUR,BOX,BOX,PUR210
+PUR211,,壽桃牌長壽盒裝麵線,PACK,Inventory,PUR,PACK,PACK,PUR211
+PUR212,,壽桃牌蝦子麵,PACK,Inventory,PUR,PACK,PACK,PUR212
+PUR213,,壽桃牌非油炸面6包裝,PACK,Inventory,PUR,PACK,PACK,PUR213
+PUR214,,天然蘆薈凝膠,,Inventory,PUR,PCS,PCS,PUR214
+PUR215,,天然蘆薈牙膏,,Inventory,PUR,PCS,PCS,PUR215
+PUR216,,優質獨立包裝小童口罩,BOX,Inventory,PUR,BOX,BOX,PUR216
+PUR217,,麻油腐乳130g,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR217
+PUR218,,冬蜜,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR218
+PUR219,,維他純蒸餾水,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR219
+PUR22,,薄荷皂,,Inventory,PUR,PCS,PCS,PUR22
+PUR220,,康樂日用大碼(10片),PACK,Inventory,PUR,PACK,PACK,PUR220
+PUR221,,護理寶床墊紙 23X36 (10片裝),PACK,Inventory,PUR,PACK,PACK,PUR221
+PUR222,,古銅色四爪拐杖可詷高低,,Inventory,PUR,PCS,PCS,PUR222
+PUR223,,康樂日用中碼(10片),PACK,Inventory,PUR,PACK,PACK,PUR223
+PUR224,,消毒酒精棉,PACK,Inventory,PUR,PACK,PACK,PUR224
+PUR225,,"康樂 250A(11"" x 26"") 片芯                                   ",PACK,Inventory,PUR,PACK,PACK,PUR225
+PUR226,,有機紅酒2008,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR226
+PUR227,,有機紅酒2009,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR227
+PUR228,,位元堂原味龜苓膏200g,CAN,Inventory,PUR,CAN,CAN,PUR228
+PUR229,,位元堂靈芝龜苓膏200g,CAN,Inventory,PUR,CAN,CAN,PUR229
+PUR23,,香茅手工皂,,Inventory,PUR,PCS,PCS,PUR23
+PUR230,,位元堂猴頭菇響螺燉雞湯320g,CAN,Inventory,PUR,CAN,CAN,PUR230
+PUR231,,位元堂瑤柱蟲草燉湯320g,CAN,Inventory,PUR,CAN,CAN,PUR231
+PUR232,,位元堂五指毛桃燉雞湯320g,CAN,Inventory,PUR,CAN,CAN,PUR232
+PUR233,,位元堂當歸紅棗燉烏雞320g,CAN,Inventory,PUR,CAN,CAN,PUR233
+PUR234,,位元堂中醫防掉髮洗髮露（強韌配方）,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR234
+PUR235,,位元堂中醫防掉髮洗髮露（烏髮配方）,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR235
+PUR236,,位元堂中醫防掉髮洗髮露（防屑配方）,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR236
+PUR237,,位元堂雙層潤喉軟糖（川貝枇杷配方）,PACK,Inventory,PUR,PACK,PACK,PUR237
+PUR238,,位元堂雙層潤喉軟糖（蜂膠羅漢果配方）,PACK,Inventory,PUR,PACK,PACK,PUR238
+PUR239,,位元堂雙層潤喉軟糖（蜂膠八仙果配方）,PACK,Inventory,PUR,PACK,PACK,PUR239
+PUR24,,苦茶粉1公斤,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR24
+PUR25,,果醋（蘋果）,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR25
+PUR26,,果醋（青梅）,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR26
+PUR27,,果醋（葡萄）,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR27
+PUR28,,果醋（蜜桃）,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR28
+PUR29,,果醋（鳳梨）,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR29
+PUR3,,19mm膠腳,,Inventory,PUR,PCS,PCS,PUR3
+PUR30,,美人桑堪醋600ml/支,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR30
+PUR31,,戀愛蘋果醋600ml/支,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR31
+PUR32,,青澀梅果醋600ml/支,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR32
+PUR33,,紅布朗杏仁茶（500g）,CAN,Inventory,PUR,CAN,CAN,PUR33
+PUR34,,NRS英國穿襪器,,Inventory,PUR,PCS,PCS,PUR34
+PUR35,,老花鏡,,Inventory,PUR,PCS,PCS,PUR35
+PUR36,,Instant Cold Pain Relief Pack,,Inventory,PUR,PCS,PCS,PUR36
+PUR37,,ASCENSIA血糖紙50's,BOX,Inventory,PUR,BOX,BOX,PUR37
+PUR38,,ASCENSIA血糖機,BOX,Inventory,PUR,BOX,BOX,PUR38
+PUR39,,Docpods Ultra Soft S,BOX,Inventory,PUR,BOX,BOX,PUR39
+PUR4,,OFA AD 壓力襪-三骨 肉色 (中碼),,Inventory,PUR,PCS,PCS,PUR4
+PUR40,,Docpods Ultra Soft M,BOX,Inventory,PUR,BOX,BOX,PUR40
+PUR41,,精美索繩袋（細）,,Inventory,PUR,PCS,PCS,PUR41
+PUR42,,精美禮品袋（大）,,Inventory,PUR,PCS,PCS,PUR42
+PUR43,,福字禮品袋（細）,,Inventory,PUR,PCS,PCS,PUR43
+PUR44,,精美心型圖案福袋,,Inventory,PUR,PCS,PCS,PUR44
+PUR45,,精美禮物袋（中）,,Inventory,PUR,PCS,PCS,PUR45
+PUR46,,安心寶-至尊裝成人尿片（10片*12包）,PACK,Inventory,PUR,PACK,PACK,PUR46
+PUR47,,安心寶-至尊裝成人尿片（10片*10包）-大碼,PACK,Inventory,PUR,PACK,PACK,PUR47
+PUR48,,"安心寶床墊60*90,10片",PACK,Inventory,PUR,PACK,PACK,PUR48
+PUR49,,安心寶藍色三層口罩-獨立裝,BOX,Inventory,PUR,BOX,BOX,PUR49
+PUR5,,針織竹炭護肘 B1-301(大碼),,Inventory,PUR,PCS,PCS,PUR5
+PUR50,,安心寶成人（無香味）濕紙巾80片,PACK,Inventory,PUR,PACK,PACK,PUR50
+PUR51,,#67856 Safety Shield Tablet Cutter切藥器,,Inventory,PUR,PCS,PCS,PUR51
+PUR52,,#71091-EZY DOSE 藥丸磨連藥盒(文化村）,BOX,Inventory,PUR,BOX,BOX,PUR52
+PUR53,,日本一級幫內褲型成人紙尿褲(薄型獨立包-贈品)大碼,PACK,Inventory,PUR,PACK,PACK,PUR53
+PUR54,,日本喜舒樂成人紙尿褲(厚裝)M-L,PACK,Inventory,PUR,PACK,PACK,PUR54
+PUR55,,文化村全自動手臂式電子血壓計,,Inventory,PUR,PCS,PCS,PUR55
+PUR56,,竹炭眼罩,,Inventory,PUR,PCS,PCS,PUR56
+PUR57,,康源檀香骨膠原沐浴露1000ml,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR57
+PUR58,,康源茶籽墨旱蓮首烏洗髮露750ml,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR58
+PUR59,,康源透骨草田七活絡沐浴露1000ml,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR59
+PUR6,,針織竹炭護肘 B1-301(加大碼),,Inventory,PUR,PCS,PCS,PUR6
+PUR60,,華潤堂雪耳球200g,PACK,Inventory,PUR,PACK,PACK,PUR60
+PUR61,,華潤堂精選龍眼肉300g,PACK,Inventory,PUR,PACK,PACK,PUR61
+PUR62,,精選淮山250g,PACK,Inventory,PUR,PACK,PACK,PUR62
+PUR63,,華潤堂杞子180克,PACK,Inventory,PUR,PACK,PACK,PUR63
+PUR64,,華潤堂夏桑菊沖劑10gX10袋,PACK,Inventory,PUR,PACK,PACK,PUR64
+PUR65,,華潤堂蟲草花（粗條）100g,PACK,Inventory,PUR,PACK,PACK,PUR65
+PUR66,,華潤堂蜜煉枇杷糖,PACK,Inventory,PUR,PACK,PACK,PUR66
+PUR67,,華潤堂九製陳皮喉糖,PACK,Inventory,PUR,PACK,PACK,PUR67
+PUR68,,華潤堂竹鹽潤喉糖,PACK,Inventory,PUR,PACK,PACK,PUR68
+PUR69,,康源唐辛子竹酢保健貼2片,PACK,Inventory,PUR,PACK,PACK,PUR69
+PUR7,,蔬菜拉麵,PACK,Inventory,PUR,PACK,PACK,PUR7
+PUR70,,華潤堂加拿大花旗蔘片80克,PACK,Inventory,PUR,PACK,PACK,PUR70
+PUR71,,華潤堂半枝蓮蛇舌草精454g,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR71
+PUR72,,康源黑豆人參當歸養潤洗髮露750ml,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR72
+PUR73,,華潤堂胎菊,PACK,Inventory,PUR,PACK,PACK,PUR73
+PUR74,,全天然活性碳包（小）-150g,PACK,Inventory,PUR,PACK,PACK,PUR74
+PUR75,,全天然活性碳包（大）-500g,PACK,Inventory,PUR,PACK,PACK,PUR75
+PUR76,,泰國威化餅（椰子）,BOX,Inventory,PUR,BOX,BOX,PUR76
+PUR77,,牛油曲奇餅,BOX,Inventory,PUR,BOX,BOX,PUR77
+PUR78,,綠糧莊有機花菇(大),PACK,Inventory,PUR,PACK,PACK,PUR78
+PUR79,,綠糧莊有機冬菇(大)120g,PACK,Inventory,PUR,PACK,PACK,PUR79
+PUR8,,蕃茄拉麵,PACK,Inventory,PUR,PACK,PACK,PUR8
+PUR80,,有機猴頭菇,PACK,Inventory,PUR,PACK,PACK,PUR80
+PUR81,,綠糧莊有機黑木耳,PACK,Inventory,PUR,PACK,PACK,PUR81
+PUR82,,綠糧莊有機牛肝菌,PACK,Inventory,PUR,PACK,PACK,PUR82
+PUR83,,有機舞茸,PACK,Inventory,PUR,PACK,PACK,PUR83
+PUR84,,有機姬松茸,PACK,Inventory,PUR,PACK,PACK,PUR84
+PUR85,,意大利有機牛肝菌蕃茄醬,PACK,Inventory,PUR,PACK,PACK,PUR85
+PUR86,,有機燒茄子蕃茄醬,PACK,Inventory,PUR,PACK,PACK,PUR86
+PUR87,,意大利有機辣椒蕃茄醬,PACK,Inventory,PUR,PACK,PACK,PUR87
+PUR88,,意大利有機羅勒蕃茄醬,PACK,Inventory,PUR,PACK,PACK,PUR88
+PUR89,,有機初榨椰子油25ml,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR89
+PUR9,,鳳梨酥 (鴻福),BOX,Inventory,PUR,BOX,BOX,PUR9
+PUR90,,有機初榨椰子油207ml,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR90
+PUR91,,有機初榨冷壓椰子油473ml,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR91
+PUR92,,有機初榨冷壓椰子油-710ml,BOTTLE,Inventory,PUR,BOTTLE,BOTTLE,PUR92
+PUR93,,有機糙米脆餅-海鹽香醋,BOX,Inventory,PUR,BOX,BOX,PUR93
+PUR94,,有機糙米脆餅-酸忌廉韭菜,BOX,Inventory,PUR,BOX,BOX,PUR94
+PUR95,,有機糙米脆餅-黑米,BOX,Inventory,PUR,BOX,BOX,PUR95
+PUR96,,有機糙米脆餅-奇異籽,BOX,Inventory,PUR,BOX,BOX,PUR96
+PUR97,,有機糙米脆餅-綠茶海苔,BOX,Inventory,PUR,BOX,BOX,PUR97
+PUR98,,MAMY快食糙米粉,PACK,Inventory,PUR,PACK,PACK,PUR98
+PUR99,,MAMY米長通粉,PACK,Inventory,PUR,PACK,PACK,PUR99
+SCH1,,學費,QTY,Service,SCHI,QTY,QTY,SCH1
+SCH2,,膳食費,QTY,Service,SCHI,QTY,QTY,SCH2
+SCH3,,學費減免-學費,QTY,Service,SCHS,QTY,QTY,SCH3
+SCH4,,學費減免-膳食,QTY,Service,SCHS,QTY,QTY,SCH4
+SCH5,,單位資助-與教學人員薪酬有關的資助,QTY,Service,SCHSUBT,QTY,QTY,SCH5
+SCH6,,單位資助-其他營運有關的資助,QTY,Service,SCHSUBO,QTY,QTY,SCH6
+SCH7,,學費-課本費,QTY,Service,SCHSUBO,QTY,QTY,SCH7
+SCH8,,學費-簿冊費,QTY,Service,SCHSUBO,QTY,QTY,SCH8
+SCH9,,學費-美勞文具雜費,QTY,Service,SCHSUBO,QTY,QTY,SCH9
+SCH10,,學費-茶點費,QTY,Service,SCHSUBO,QTY,QTY,SCH10
+SCH11,,書包,QTY,Inventory,PUR,QTY,QTY,SCH11
+SCH12,,校服,QTY,Inventory,PUR,QTY,QTY,SCH12
+SER1,,"日間照顧
+-全日制
+-專業
+",QTY,Service,SERI,QTY,QTY,SER1
+SER10,,"膳食-備膳煮飯
+",QTY,Service,SERI,QTY,QTY,SER10
+SER11,,"膳食-遞送服務
+",QTY,Service,SERI,QTY,QTY,SER11
+SER12,,"看顧-洗澡
+",QTY,Service,SERI,QTY,QTY,SER12
+SER13,,"看顧-餵食
+",QTY,Service,SERI,QTY,QTY,SER13
+SER14,,"培訓-專業
+",QTY,Service,SERI,QTY,QTY,SER14
+SER15,,"培訓-輔助
+",QTY,Service,SERI,QTY,QTY,SER15
+SER16,,"護理-專業
+",QTY,Service,SERI,QTY,QTY,SER16
+SER17,,"護理-輔助
+",QTY,Service,SERI,QTY,QTY,SER17
+SER18,,護送-陪診,QTY,Service,SERI,QTY,QTY,SER18
+SER19,,護送-外出活動,QTY,Service,SERI,QTY,QTY,SER19
+SER2,,"日間照顧
+-全日制
+-輔助
+",QTY,Service,SERI,QTY,QTY,SER2
+SER20,,護送-外出購物,QTY,Service,SERI,QTY,QTY,SER20
+SER21,,"車輛接送
+",QTY,Service,SERI,QTY,QTY,SER21
+SER22,,"租借用品
+",QTY,Service,SERI,QTY,QTY,SER22
+SER23,,"其他
+-小服務
+",QTY,Service,SERI,QTY,QTY,SER23
+SER24,,"家居-家居清潔
+",QTY,Service,SERI,QTY,QTY,SER24
+SER25,,"家居-污衣處理
+",QTY,Service,SERI,QTY,QTY,SER25
+SER26,,"家居-洗衣
+",QTY,Service,SERI,QTY,QTY,SER26
+SER27,,"家居-代辦
+",QTY,Service,SERI,QTY,QTY,SER27
+SER28,,"家居-輪籌
+",QTY,Service,SERI,QTY,QTY,SER28
+SER29,,"膳食-備膳煮飯
+",QTY,Service,SERI,QTY,QTY,SER29
+SER3,,"日間照顧
+-每節
+-專業
+",QTY,Service,SERI,QTY,QTY,SER3
+SER30,,"膳食-遞送服務
+",QTY,Service,SERI,QTY,QTY,SER30
+SER31,,"看顧-洗澡
+",QTY,Service,SERI,QTY,QTY,SER31
+SER32,,"看顧-餵食
+",QTY,Service,SERI,QTY,QTY,SER32
+SER33,,"培訓-專業
+",QTY,Service,SERI,QTY,QTY,SER33
+SER34,,"培訓-輔助
+",QTY,Service,SERI,QTY,QTY,SER34
+SER35,,"護理-專業
+",QTY,Service,SERI,QTY,QTY,SER35
+SER36,,"護理-輔助
+",QTY,Service,SERI,QTY,QTY,SER36
+SER37,,護送-陪診,QTY,Service,SERI,QTY,QTY,SER37
+SER38,,護送-外出活動,QTY,Service,SERI,QTY,QTY,SER38
+SER39,,護送-外出購物,QTY,Service,SERI,QTY,QTY,SER39
+SER4,,"日間照顧
+-每節
+-輔助
+",QTY,Service,SERI,QTY,QTY,SER4
+SER40,,"車輛接送
+",QTY,Service,SERI,QTY,QTY,SER40
+SER41,,"租借用品
+",QTY,Service,SERI,QTY,QTY,SER41
+SER42,,"其他
+-小服務
+",QTY,Service,SERI,QTY,QTY,SER42
+SER5,,"家居-家居清潔
+",QTY,Service,SERI,QTY,QTY,SER5
+SER6,,"家居-污衣處理
+",QTY,Service,SERI,QTY,QTY,SER6
+SER7,,"家居-洗衣
+",QTY,Service,SERI,QTY,QTY,SER7
+SER8,,"家居-代辦
+",QTY,Service,SERI,QTY,QTY,SER8
+SER9,,"家居-輪籌
+",QTY,Service,SERI,QTY,QTY,SER9
+ECF-G,,ECF-GENERAL,QTY,Service,SERI,QTY,QTY,
+ECF-E,,ECF-ELDERLY,QTY,Service,SERI,QTY,QTY,
+ECF-CT,,ECF-CARE TEAM,QTY,Service,SERI,QTY,QTY,
+ECF-UPG,,ECF-UPG & DEV.,QTY,Service,SERI,QTY,QTY,
+ECF-FS,,ECF-FAMILY SEV,QTY,Service,SERI,QTY,QTY,
+ECF-SS,,ECF-SOCIAL SER,QTY,Service,SERI,QTY,QTY,
+ECF-MC,,ECF-MEDICAL CT,QTY,Service,SERI,QTY,QTY,
+ECF-DECC&NEC,,ECF-DECC & NEC,QTY,Service,SERI,QTY,QTY,
+AIR-COND FEE,,Air-conditioning冷氣費,QTY,Service,SERI,QTY,QTY,
+BADMINTON COURT,,Badminton Court羽毛球場,QTY,Service,SERI,QTY,QTY,
+ACUPUNCTURE,,Acupuncture針灸,QTY,Service,SERI,QTY,QTY,
+ACUP-FEE,,Acupuncture Medical fee針灸診金,QTY,Service,SERI,QTY,QTY,
+ACUP-MEDICINE,,Acupuncture Medicine fee針灸藥費,QTY,Service,SERI,QTY,QTY,
+ACUP-DECOCTION,,Acupuncture Decoction 針灸煎藥,QTY,Service,SERI,QTY,QTY,
+ACUP-OTHERS,,Acupuncture others體重控制項目,QTY,Service,SERI,QTY,QTY,
+BONE,,Bone骨科,QTY,Service,SERI,QTY,QTY,
+BONE-FEE,,Bone Medical fee骨科診金,QTY,Service,SERI,QTY,QTY,
+GENERAL,,General Medical普通內科,QTY,Service,SERI,QTY,QTY,
+GENERAL-FEE,,General Medical fee普通內科診金,QTY,Service,SERI,QTY,QTY,
+GENERAL-MEDICINE,,General Medicine fee普通內科藥費,QTY,Service,SERI,QTY,QTY,
+GENERAL-DECOCTION,,General Decoction普通內科煎藥,QTY,Service,SERI,QTY,QTY,
+GENERAL-OTHERS,,General others體重控制項目,QTY,Service,SERI,QTY,QTY,
+TINJIU,,TINJIU-Medical fee天灸,QTY,Service,SERI,QTY,QTY,
+MEDICINE,,Medicine藥物,QTY,Service,SERI,QTY,QTY,
+ICWM,,ICWM-Clinic腫瘤科門診,QTY,Service,SERI,QTY,QTY,
+ICWM-OUT,,ICWM-Clinic腫瘤科到診,QTY,Service,SERI,QTY,QTY,
+NSCCP-CENTREGROUP,,CENTRE GROUP SERVICE FEE,QTY,Service,SERI,QTY,QTY,
+NSCCP-HOMEBASE,,HOME BASE SERVICE FEE,QTY,Service,SERI,QTY,QTY,
